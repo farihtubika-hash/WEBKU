@@ -3,7 +3,7 @@ body{
  color:#333;
  width:100%;
  font-family:Times New Roman;
-  margin:0 auto;
+ margin:0 auto;
 }
 
 .header{
@@ -12,8 +12,9 @@ body{
     height:120px;
     line-height:120px;
     background:#417aa8;
- color:#fff;
+    color:#fff;
 }
+
 
 
 
